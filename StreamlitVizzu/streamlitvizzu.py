@@ -6,7 +6,7 @@ import math
  
 # Definimos los parámetros de configuración de la aplicación
 st.set_page_config(
-    page_title="Paris 2024 Olympics - Animated data summary", #Título de la página
+    page_title="Paris 2024 JJOO - Animated data summary", #Título de la página
     page_icon="🏃‍➡️", # Ícono
     layout="wide", # Forma de layout ancho o compacto
     initial_sidebar_state="expanded" # Definimos si el sidebar aparece expandido o colapsado
